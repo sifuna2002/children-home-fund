@@ -1,0 +1,219 @@
+@media (max-width:1366px){
+.project-details h2{font-size:30px;line-height:30px;margin-bottom:10px}
+.project-info > h3{margin-bottom:15px}
+.project-info > p{font-size:14px}
+.project-progress{margin-bottom:20px}
+.project-progress .progress{margin-bottom:10px}
+}
+
+
+@media (max-width:1200px){
+nav{padding-left:30px}
+.menubar ul li a{font-size:17px;padding:12px 8px 0}
+.cause-progress > ul li strong{font-size:25px}
+.cause-progress > ul li span{font-size:18px}
+.collected > strong span{font-size:30px}
+.simple-title h3{font-size:30px}
+.simple-title > span{font-size:15px}
+.about-text > ul li{line-height:25px}
+.service{padding:0 22px}
+.cause-detail{padding-left:20px}
+.amount span{float:left;font-size:13px}
+.cause-detail > p{font-size:13px;line-height:17px;margin-bottom:15px}
+.cause-detail > h3{font-size:20px;margin:0 0 5px}
+.cause-detail .progress{margin-bottom:10px}
+.cause-detail .button-set{margin-top:20px}
+.recent-cause .button-set .btn{margin-right:5px;min-width:0;padding:6px 12px;font-size:12px}
+.recent-cause .button-set .btn:last-child{margin:0}
+.become-vol{margin:-47px 0 0}
+.become-vol > h2{font-size:30px}
+.become-vol > span{margin:2px 0 10px}
+.become-vol > p{font-size:13px;margin-bottom:10px}
+.urgent-cause.style2 .cause-progress > ul li strong{font-size:22px}
+.collected .btn{min-width:80px;margin-left:5px}
+.urgent-cause.style2 .collected > strong span{font-size:26px}
+.time-block{margin-right:20px;width:102px}
+.post-description{padding:0 30px}
+.post-description h4{font-size:17px}
+.post-description .meta{margin-bottom:10px}
+.post-description > p{font-size:13px}
+.widget ul.meta li{margin:0 6px 0 0}
+.widget ul.meta li i{margin-right:5px}
+.theme-layout.boxed{width:95%}
+.newsletter input:first-of-type {margin-left: 0}
+.newsletter button.btn {float: left;}
+}
+
+
+@media (max-width:980px){
+header{display:none}
+.responsive-header{display:block;float:left;width:100%}
+.block{padding:60px 0}
+.block.less-space{padding:40px 0}
+.column{float:left;margin-bottom:60px;width:100%}
+.column:last-child{margin:0}
+.counters .row > div{float:left;width:50%}
+.daan-services{text-align:center}
+.daan-services .row > div{display:inline-block;margin:0 -1px;width:50%}
+.service{padding:0}
+.cause-progress{margin-top:40px}
+.about-text{margin-top:40px;padding:0}
+.become-vol{margin:0;padding:0 30px;width:100%}
+.volunteers-img{margin:30px 0 -60px}
+.daan-events .masonary > div{float:left;width:50%}
+.daan-gallery > div{float:left;width:50%}
+.daan-blog{text-align:center}
+.daan-blog .row > div{display:inline-block;margin:0 -2px;text-align:left;width:50%}
+.widget:last-child{margin-bottom:80px}
+footer .container > .row > div{float:left;width:50%}
+.urgent-cause.style2{width:100%}
+.simple-causes{text-align:center}
+.simple-causes .row > div{display:inline-block;float:none;margin:0 -1px;text-align:left;width:50%}
+.daan-causes.grid-style .row > div{float:left;width:50%}
+.time-block{margin:0 1%;width:23%}
+.testimonials-title{box-shadow:none;float:left;height:auto !important;overflow:hidden;padding:20px;width:100%}
+.title-inner{float:left;position:relative;width:100%;
+-webkit-transform:translate(0);
+-moz-transform:translate(0);
+-ms-transform:translate(0);
+-o-transform:translate(0);
+transform:translate(0);
+}
+.testimonials-carousel-wrapper{float:left;width:100%}
+.testimonials-carousel{border-left:0 none;margin:-12px 0 0;overflow:hidden;padding:40px 20px}
+.testimonials-text{padding-left:30px}
+.testimonials-text > strong{padding:0}
+.owl-nav{bottom:20px;left:auto;right:0;width:auto}
+.post-description{text-align:left}
+.project-details{height:auto!important;padding:30px 0;width:100%}
+.project-selectors{width:100%}
+.detail-inner{float:left;position:relative;top:0;
+-webkit-transform:translate(0);
+-moz-transform:translate(0);
+-ms-transform:translate(0);
+-o-transform:translate(0);
+transform:translate(0);
+}
+.daan-projects-page .masonary > div{float:left;width:50%}
+form .row > div{float:left;width:100%}
+
+}
+
+
+@media (max-width:768px){
+.block .container,
+.container{padding:0 15px}
+.volunteers-img > strong{bottom:10px;font-size:30px;letter-spacing:0;padding:10px}
+.daan-events .masonary > div{width:100%}
+.cause-progress > ul li strong{font-size:20px;margin-bottom:3px}
+.cause-progress > ul li span{font-size:14px}
+.daan-contact{padding:30px}
+.daan-contact form{margin-bottom:30px;padding:0}
+footer{padding:80px 0 0}
+.bottom-strip p{float:left;margin-bottom:10px;text-align:center;width:100%}
+.service{margin-bottom:30px}
+.daan-services{margin-bottom:-30px}
+.service > img{margin-bottom:20px}
+.daan-counter > strong{font-size:30px;line-height:24px}
+.daan-counter > strong span{font-size:14px;margin:2px 0 0}
+.title{margin-bottom:30px}
+.title h2{font-size:28px;line-height:30px;margin-bottom:10px}
+.title > p{font-size:14px;letter-spacing:0}
+.volunteers-img > strong{font-size:20px;line-height:20px}
+.event h4{font-size:17px;margin:0 0 5px}
+.event > span{font-size:14px}
+.event-img{margin-bottom:10px}
+.become-vol{padding:0 15px}
+.become-vol > h2{font-size:24px}
+.become-vol > span{font-size:14px}
+.event.closest h4{font-size:20px}
+.event.closest > span{font-size:14px;margin-bottom:15px}
+.daan-post > h4{font-size:18px}
+.error-page > h1{font-size:140px;line-height:140px;margin-bottom:20px}
+.error-page > strong{font-size:25px;margin-bottom:10px}
+.error-page > span{font-size:17px}
+.pagetop-inner h1{font-size:24px;line-height:24px;margin-bottom:8px}
+.breadcrumbs li{font-size:14px}
+.grid-style .daan-post .post-img{display:unset;float:left;margin:0;width:100%}
+.post-description{display:unset;float:left;padding:20px;width:100%}
+.grid-style .daan-post .post-img img{max-width:100%}
+.grid-style .daan-post{float:left;padding:0 10px;width:50%}
+blockquote{margin:0 0 30px;width:100%}
+.tags{width:100%}
+.share-post{float:left;margin-top:10px;max-width:none;width:100%}
+.author-detail{display:unset;float:left;padding:30px 0 0;width:100%}
+.author-detail h3{font-size:18px;margin:0 0 10px}
+.post-author > img{margin:0}
+.comment-detail{display:unset;float:left;padding:20px 0 0;width:100%}
+.comments ul ul{padding-left:0}
+.single-page .post-img > span{font-size:12px;width:35px}
+.single-page .post-img > span i{font-size:20px;line-height:20px}
+.single-page .post-img > span:before,
+.single-page .post-img > span:after{border-left-width:17px !important;border-right-width:17px !important;border-top-width:11px!important}
+.single-page .post-img > span:after{border-top-width:17px !important}
+.tickets .remaining{margin-top:20px;width:100%}
+.tickets{margin-top:20px;padding-bottom:20px}
+.tickets .btn{margin:0}
+.events-social{margin-top:20px}
+.event-img strong{bottom:10px;font-size:20px}
+.event-img strong span{font-size:11px;line-height:13px}
+.daan-popup{margin:10px 0; padding:60px 30px}
+.daan-popup > span{margin-bottom:20px}
+.daan-popup > h2{font-size:35px;margin-bottom:20px}
+.donation-progress > strong{margin-bottom:20px;text-align:center;width:100%}
+.choose-one li{width:100%!important}
+.choose-one.style2 li{padding: 5px 0}
+.your-donation > ul li{float:left;margin:0 0 10px;width:50%}
+.layer1{font-size:11px!important;line-height:15px!important}
+.layer3{font-size:12px!important;padding-top:1px!important}
+.layer3 span{font-size:inherit!important}
+.layer4{font-size:12px!important;padding:5px 10px!important}
+.newsletter input {width: 47%}
+.newsletter button.btn {margin-top: 15px}
+}
+
+@media (max-width:480px){
+.cause-progress > ul li{margin-bottom:10px;width:50%}
+.urgent-cause p{padding:0}
+.collected > strong{margin-bottom:10px;width:100%}
+.daan-services .row > div{float:left;margin:0;width:100%}
+.counters .row > div{width:100%}
+.daan-counter{padding:0}
+.cause-img{display:unset;float:left;width:100%}
+.cause-detail{display:unset;float:left;padding:20px 0 0;width:100%}
+.cause-img img{width:100%}
+.daan-gallery > div{width:100%}
+.daan-blog .row > div{float:left;width:100%;margin:0}
+.post-img img{width:100%}
+footer .container > .row > div{width:100%}
+.bottom-strip{padding:20px 0}
+.bottom-strip p{float:left;margin-bottom:10px;text-align:center;width:100%}
+.bottom-strip ul{text-align:center;width:100%}
+.bottom-strip ul li{display:inline-block;float:none;font-size:14px;margin:0 10px}
+.testimonials-slide > img{display:unset}
+.testimonials-text{display:unset;float:left;padding:30px 0 0;width:100%}
+.simple-causes .row > div{float:left;margin:0;width:100%}
+.way{padding:20px 40px 20px 20px}
+.way i{font-size:40px;right:20px;top:20px}
+.way > h4{font-size:20px;margin-bottom:20px;margin-top:0}
+.daan-causes.grid-style .row > div{width:100%}
+.upcoming-event .meta li{font-size:13px;line-height:20px}
+.upcoming-event .meta li i{font-size:14px}
+.time-block > strong{font-size:21px}
+.time-block > span{font-size:10px;letter-spacing:0}
+.content{padding-left:30px}
+.testimonials-title h3{font-size:22px;font-weight:500;margin:0 0 10px}
+.pagetop-inner{float:left;position:relative;width:100%;
+	-webkit-transform:translate(0);
+	-moz-transform:translate(0);
+	-ms-transform:translate(0);
+	-o-transform:translate(0);
+	transform:translate(0);
+}
+.grid-style .daan-post{width:100%}
+.daan-projects-page .masonary > div{width:100%}
+.single-page ul.simple-list{float:left;margin-top:20px;width:100%}
+.newsletter input {width: 100%;}
+.title.nl2 p {padding-right: 0}
+}
+
