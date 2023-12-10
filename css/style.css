@@ -4163,13 +4163,13 @@ li.select2-results__option:before{display:none}
     width: 100%;
     text-align: center;
     font-size: 3.5em;
-    color: #1f003b;
+    color: #3ead70;
   }
   .card {
     box-shadow: 0 0 2.4em rgba(25, 0, 58, 0.1);
     padding: 3.5em 1em;
     border-radius: 0.6em;
-    color: #1f003b;
+    color: #3ead70;
     cursor: pointer;
     transition: 0.3s;
     background-color: #ffffff;
@@ -4177,7 +4177,7 @@ li.select2-results__option:before{display:none}
   .card .img-container {
     width: 8em;
     height: 8em;
-    background-color: #a993ff;
+    background-color: #3ead70;
     padding: 0.5em;
     border-radius: 50%;
     margin: 0 auto 2em auto;
@@ -4209,7 +4209,7 @@ li.select2-results__option:before{display:none}
     font-size: 1.4em;
   }
   .card:hover {
-    background: linear-gradient(#6045ea, #8567f7);
+    background: linear-gradient(#3ead70, #0e5e32);
     color: #ffffff;
   }
   .card:hover .img-container {
