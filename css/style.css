@@ -4232,3 +4232,9 @@ li.select2-results__option:before{display:none}
     }
   }
   
+.bank-info ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
