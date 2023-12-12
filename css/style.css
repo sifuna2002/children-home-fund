@@ -4231,6 +4231,17 @@ li.select2-results__option:before{display:none}
       padding: 0 1em;
     }
   }
+  @media screen and (max-width: 770px) {
+    .missions{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .missions img{
+        width: 100px;
+    }
+  }
   
 .bank-info ul {
   list-style-type: none;
